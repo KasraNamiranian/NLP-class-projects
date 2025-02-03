@@ -1,5 +1,5 @@
 DR. Nava Eslami Fundamentals of Natural Language Processing class for undergraduates - Term:4031 - IAU NTB
-TA : Mr. Sina Tamjid Shabestari
+\nTA : Mr. Sina Tamjid Shabestari
 
 Exercise 1 (Tamrin aval): 
 For the English text below, do the following.
